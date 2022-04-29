@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentWeeklyTwo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_one">Фрагмент 1</string>
+    <string name="fragment_two">Фрагмент 2</string>
+    <string name="one">Первый</string>
+    <string name="two">Второй</string>
+    <string name="dialog">Открыть диалог</string>
+    <string name="next">Next</string>
+</resources>
